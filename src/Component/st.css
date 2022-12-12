@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+img{
+    position: absolute;
+}
+.container-head
+{
+    position: absolute;
+    height: 100px;
+}
+.container-m
+{
+    background-color: black;
+    height: 640px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-mid
+{
+    background-color: azure;
+    width: 50%;
+    height: 550px;
+}

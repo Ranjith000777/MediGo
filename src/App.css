@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+}
+.container
+{
+  position:absolute;
+  text-align: center;
+  margin-left: 480px;
+  margin-top: 100px;
+  background-color: rgb(255, 255, 255);
+  width: 550px;
+  height: 500px;
+}
+.heads
+{
+  font-size: 40px;
+  font-weight: bolder;
+}
+input{
+  padding: 15px 10px;
+  width: 60%;
+  border:none ;
+  border-bottom: 1px solid black;
+  background: transparent;
+  outline: none;
+}
+button{
+  padding: 10px 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: none;
+  background-color: blue;
+  color: aliceblue;
+}
+.r{
+  width: 20px;
+  height: 20px;
+}
